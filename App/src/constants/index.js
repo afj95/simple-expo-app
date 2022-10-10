@@ -1,0 +1,1 @@
+export const API_URL = __DEV__ ? `http://your-beta-api-url/api/v1/` : `http://your-production-api-url/api/v1/`;
